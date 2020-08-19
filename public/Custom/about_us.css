@@ -1,0 +1,68 @@
+/*Contact sectiom*/
+.content-header{
+    font-family: 'Oleo Script', cursive;
+    color:#2ABB9B;
+    font-size: 45px;
+}
+
+.section-content{
+    text-align: center;
+
+}
+#contact{
+
+    font-family: 'Teko', sans-serif;
+    padding-top: 60px;
+    width: 100%;
+    width: 100vw;
+    height: 550px;
+    background: #f4f6ff; /* fallback for old browsers */
+    /*background: -webkit-linear-gradient(to left, #3a6186 , #89253e); !* Chrome 10-25, Safari 5.1-6 *!*/
+    /*background: linear-gradient(to left, #3a6186 , #89253e); !* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ *!*/
+    color : rgba(0,0,0,0.6);
+}
+.contact-section{
+    padding-top: 40px;
+}
+.contact-section .col-md-6{
+    width: 50%;
+}
+
+.form-line{
+    border-right: 1px solid #B29999;
+}
+
+.form-group{
+    margin-top: 10px;
+}
+
+.form-control{
+    font-size: 1.3em;
+    color: #080808;
+
+
+}
+textarea.form-control {
+    height: 135px;
+    /* margin-top: px;*/
+}
+.select-box
+{
+    height: 50px;
+    color: rgba(0,0,0,0.6);
+}
+
+.submit{
+    font-size: 1.1em;
+    background-color: transparent;
+    color: rgba(0,0,0,0.6);
+    -webkit-transition: all 0.7s ease-in-out;
+    -moz-transition: all 0.7s ease-in-out;
+    -o-transition: all 0.7s ease-in-out;
+    transition: all 0.7s ease-in-out;
+    border: none;
+}
+button:active
+{
+    border: none;
+}
